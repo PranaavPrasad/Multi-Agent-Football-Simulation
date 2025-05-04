@@ -1,3 +1,5 @@
 *.gif
 *.npy
 *.png
+
+*_test.ipynb
